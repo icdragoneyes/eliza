@@ -64,3 +64,5 @@ eliza.manifest.sgx
 eliza.sig
 
 start.sh
+
+pnpm-lock.yaml
